@@ -1,0 +1,33 @@
+3
+19772019 66.00 4 
+12/10/2019 3.29 Blue_milk Food
+12/08/2016 0.50 R2D2_replacement_par Housing
+08/15/2017 12.99 Brown_robe Personal_Care
+12/09/2017 2.99 yellow Food
+19882017 45210.69 3
+12/24/2019 1015.00 Flute Entertainment
+01/01/2020 12.99 Champagne Food
+12/28/2019 5288.00 Rent Housing
+19471843 1000000.00 9 
+01/01/2020 269.99 Champagne Food
+01/09/2020 400.00 Therapy Personal_Care
+01/03/2020 12562.00 Vacation_home Housing
+01/01/2020 4780.00 Caviar Housing
+01/01/1900 4780.00 Caviar Miscellaneous
+01/01/2020 4780.00 Caviar Entertainment
+01/01/2020 4780.00 Caviar Personal_Care
+01/01/2020 4780.00 Caviar Entertainment
+01/01/2020 4780.00 Caviar Housing
+
+
+
+
+
+
+
+
+
+
+
+
+
